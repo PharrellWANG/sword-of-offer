@@ -5,7 +5,7 @@
 #include <stack>
 using namespace std;
 
-#include "Lib/bitAdd.h"
+#include "../../Lib/TLibSword/bitAdd.h"
 
 int main() {
     Solution s;
