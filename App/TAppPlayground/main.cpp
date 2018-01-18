@@ -9,6 +9,7 @@ using namespace std;
 
 int main() {
 //    Solution s;
-    cout<< -21 / 2 <<endl;
+    int x = 2 << 1;
+    cout<< x <<endl;
     return 0;
 }
