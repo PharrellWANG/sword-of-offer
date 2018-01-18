@@ -10,6 +10,9 @@
     - [TAppConverter](#tappconverter)
     - [TAppPlayground](#tappplayground)
     - [TAppSword](#tappsword)
+- [Libraries](#libraries)
+    - [TLibSword](#tlibsword)
+        - [bitAdd.h](#bitaddh)
 - [Notes](#notes)    
     - [Bit shift](#bit-shift)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -29,7 +32,13 @@ E.g.,
 just a playground to experiment with codes.
 
 ### TAppSword
-contents for *sword-of-offer*.
+App for *sword-of-offer*.
+
+## Libraries
+
+### TLibSword
+
+#### bitAdd.h 
 
 ## Notes
 
