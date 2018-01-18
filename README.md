@@ -12,7 +12,7 @@
     - [TAppSword](#tappsword)
 - [Libraries](#libraries)
     - [TLibSword](#tlibsword)
-        - [bitAdd.h](#bitaddh)
+        - [BitwiseAdd.h](#bitwiseaddh)
 - [Notes](#notes)    
     - [Bit shift](#bit-shift)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -38,8 +38,8 @@ App for *sword-of-offer*.
 
 ### TLibSword
 
-#### bitAdd.h 
-Add two numbers without using *plus* operator.
+#### BitwiseAdd.h 
+Add two decimal numbers without using *plus* operator.
 
 ## Notes
 

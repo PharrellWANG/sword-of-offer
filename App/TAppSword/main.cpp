@@ -5,7 +5,7 @@
 //#include <stack>
 using namespace std;
 
-#include "../../Lib/TLibSword/bitAdd.h"
+#include "../../Lib/TLibSword/BitwiseAdd.h"
 //#include "../../Lib/TLibConverter/decimalToBinary.h"
 
 int main() {

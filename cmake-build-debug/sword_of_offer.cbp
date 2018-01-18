@@ -192,7 +192,16 @@
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibPlayground/bitAdd.h">
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/bitAdd.h">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/BitwiseAdd.h">
+			<Option target="sword"/>
+		</Unit>
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/ListNode.h">
+			<Option target="sword"/>
+		</Unit>
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/TreeNode.h">
+			<Option target="sword"/>
+		</Unit>
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/UglyNumber.h">
 			<Option target="sword"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/CMakeLists.txt">
