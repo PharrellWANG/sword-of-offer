@@ -1,14 +1,15 @@
 #include <iostream>
-#include <sstream>
-#include <vector>
-#include <math.h>
-#include <stack>
+//#include <sstream>
+//#include <vector>
+//#include <math.h>
+//#include <stack>
 using namespace std;
 
-#include "../../Lib/TLibSword/bitAdd.h"
+//#include "../../Lib/TLibSword/bitAdd.h"
+#include "../../Lib/TLibConverter/decimalToBinary.h"
 
 int main() {
-    Solution s;
-    cout<<s.Add(2, 3)<<endl;
+    DecimalToBinary s;
+    s.binary(10);
     return 0;
 }

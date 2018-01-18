@@ -6,7 +6,7 @@
 #ifndef SWORD_OF_OFFER_BITADD_H
 #define SWORD_OF_OFFER_BITADD_H
 
-class Solution {
+class BitAdd {
 public:
     int Add(int num1, int num2)
     {
