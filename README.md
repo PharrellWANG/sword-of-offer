@@ -32,5 +32,7 @@ contents for *sword-of-offer*.
 ## Notes
 
 ### Bit shift
+
 ``<< x`` <=> ``* 2^x`` (multiply with 2^x)
+
 ``>> x`` <=> ``/ 2^x`` (divided by 2^x)
