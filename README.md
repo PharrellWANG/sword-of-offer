@@ -39,6 +39,7 @@ App for *sword-of-offer*.
 ### TLibSword
 
 #### bitAdd.h 
+Add two numbers without using *plus* operator.
 
 ## Notes
 

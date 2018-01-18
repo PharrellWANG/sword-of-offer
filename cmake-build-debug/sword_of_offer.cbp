@@ -8,194 +8,194 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="converter">
-				<Option output="/Users/pharrell_wang/sword-of-offer/cmake-build-debug/converter" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/converter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 converter"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 converter"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="converter/fast">
-				<Option output="/Users/pharrell_wang/sword-of-offer/cmake-build-debug/converter" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/converter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 converter/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 converter/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="playground">
-				<Option output="/Users/pharrell_wang/sword-of-offer/cmake-build-debug/playground" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/playground" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="playground/fast">
-				<Option output="/Users/pharrell_wang/sword-of-offer/cmake-build-debug/playground" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/playground" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="sword">
-				<Option output="/Users/pharrell_wang/sword-of-offer/cmake-build-debug/sword" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/sword" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sword"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sword"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="sword/fast">
-				<Option output="/Users/pharrell_wang/sword-of-offer/cmake-build-debug/sword" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/pharrell_wang/sword-of-offer/cmake-build-debug"/>
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/sword" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sword/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pharrell_wang/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sword/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/App/TAppConverter/main.cpp">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/App/TAppConverter/main.cpp">
 			<Option target="converter"/>
 		</Unit>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/App/TAppPlayground/main.cpp">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/App/TAppPlayground/main.cpp">
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/App/TAppSword/main.cpp">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/App/TAppSword/main.cpp">
 			<Option target="sword"/>
 		</Unit>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/Lib/TLibConverter/binaryToDecimal.h">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibConverter/binaryToDecimal.h">
 			<Option target="converter"/>
 		</Unit>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/Lib/TLibConverter/decimalToAny.h">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibConverter/decimalToAny.h">
 			<Option target="converter"/>
 		</Unit>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/Lib/TLibConverter/decimalToBinary.h">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibConverter/decimalToBinary.h">
 			<Option target="converter"/>
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/Lib/TLibPlayground/bitAdd.h">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibPlayground/bitAdd.h">
 			<Option target="playground"/>
 		</Unit>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/Lib/TLibSword/bitAdd.h">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/bitAdd.h">
 			<Option target="sword"/>
 		</Unit>
-		<Unit filename="/Users/pharrell_wang/sword-of-offer/CMakeLists.txt">
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
