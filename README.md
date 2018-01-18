@@ -15,7 +15,13 @@
 ## Applications
 
 ### TAppConverter 
-binary to octal, decimal, hexadecimal; decimal to binary.
+About *base conversion*. 
+
+E.g.,
+ 
+1. binary to octal, decimal, hexadecimal;
+ 
+2. decimal to binary.
 
 ### TAppPlayground
 just a playground to experiment with codes.
