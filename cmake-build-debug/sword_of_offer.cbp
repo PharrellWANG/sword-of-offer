@@ -27,6 +27,50 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="TAppSinglyLinkedList">
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/TAppSinglyLinkedList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TAppSinglyLinkedList"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TAppSinglyLinkedList/fast">
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/TAppSinglyLinkedList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode8.2/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TAppSinglyLinkedList/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option type="4"/>
@@ -37,8 +81,8 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="converter">
-				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/converter" prefix_auto="0" extension_auto="0"/>
+			<Target title="TAppConverter">
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/TAppConverter" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -53,14 +97,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 converter"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TAppConverter"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="converter/fast">
-				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/converter" prefix_auto="0" extension_auto="0"/>
+			<Target title="TAppConverter/fast">
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/TAppConverter" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -75,14 +119,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 converter/fast"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TAppConverter/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="playground">
-				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/playground" prefix_auto="0" extension_auto="0"/>
+			<Target title="TAppPlayground">
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/TAppPlayground" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -97,14 +141,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TAppPlayground"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="playground/fast">
-				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/playground" prefix_auto="0" extension_auto="0"/>
+			<Target title="TAppPlayground/fast">
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/TAppPlayground" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -119,14 +163,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 playground/fast"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TAppPlayground/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="sword">
-				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/sword" prefix_auto="0" extension_auto="0"/>
+			<Target title="TAppSword">
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/TAppSword" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -141,14 +185,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sword"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TAppSword"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="sword/fast">
-				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/sword" prefix_auto="0" extension_auto="0"/>
+			<Target title="TAppSword/fast">
+				<Option output="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/TAppSword" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -163,7 +207,7 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 sword/fast"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 TAppSword/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Pharrell_WANG/ClionProjects/sword-of-offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -171,38 +215,47 @@
 			</Target>
 		</Build>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/App/TAppConverter/main.cpp">
-			<Option target="converter"/>
+			<Option target="TAppConverter"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/App/TAppPlayground/main.cpp">
-			<Option target="playground"/>
+			<Option target="TAppPlayground"/>
+		</Unit>
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/App/TAppSinglyLinkedList/main.cpp">
+			<Option target="TAppSinglyLinkedList"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/App/TAppSword/main.cpp">
-			<Option target="sword"/>
+			<Option target="TAppSword"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibConverter/binaryToDecimal.h">
-			<Option target="converter"/>
+			<Option target="TAppConverter"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibConverter/decimalToAny.h">
-			<Option target="converter"/>
+			<Option target="TAppConverter"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibConverter/decimalToBinary.h">
-			<Option target="converter"/>
-			<Option target="playground"/>
+			<Option target="TAppConverter"/>
+			<Option target="TAppPlayground"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibPlayground/bitAdd.h">
-			<Option target="playground"/>
+			<Option target="TAppPlayground"/>
+		</Unit>
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSinglyLinkedList/singlyLinkedList.cpp">
+			<Option target="TAppSinglyLinkedList"/>
+		</Unit>
+		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSinglyLinkedList/singlyLinkedList.h">
+			<Option target="TAppSinglyLinkedList"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/BitwiseAdd.h">
-			<Option target="sword"/>
+			<Option target="TAppSword"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/ListNode.h">
-			<Option target="sword"/>
+			<Option target="TAppSword"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/TreeNode.h">
-			<Option target="sword"/>
+			<Option target="TAppSword"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/Lib/TLibSword/UglyNumber.h">
-			<Option target="sword"/>
+			<Option target="TAppSword"/>
 		</Unit>
 		<Unit filename="/Users/Pharrell_WANG/ClionProjects/sword-of-offer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
